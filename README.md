@@ -1,6 +1,6 @@
-## 📖 Bora Bíblia: Novo Testamento segundo Lucas ... Fogliarini
+## 📖 Bora Bíblia: Ministério de Jesus Cristo segundo Lucas ... Fogliarini
 
-Quer entender a Bíblia como ela aconteceu? Aqui estão os [27 livros do Novo Testamento](http://chatgpt.com/?q=Por%20que%20a%20B%C3%ADblia%20tem%2027%20livros%20no%20novo%20testamento?) em ordem cronológica e com links pra explorar cada um com o ChatGPT.
+Quer entender como o __Ministério de Jesus Cristo__ aconteceu? Aqui estão os [27 livros do Novo Testamento](http://chatgpt.com/?q=Por%20que%20a%20B%C3%ADblia%20tem%2027%20livros%20no%20novo%20testamento?) em ordem cronológica e com links pra explorar cada um com o __ChatGPT__.
 
 | # | Data | Livro | Versículos | Autor | Local | Local Atual | Tipo |
 |---|------|--------|------------|--------|--------|--------------|------|
